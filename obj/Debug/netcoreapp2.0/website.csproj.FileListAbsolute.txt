@@ -1,0 +1,10 @@
+C:\Users\Roel\Code\website\bin\Debug\netcoreapp2.0\website.deps.json
+C:\Users\Roel\Code\website\bin\Debug\netcoreapp2.0\website.runtimeconfig.json
+C:\Users\Roel\Code\website\bin\Debug\netcoreapp2.0\website.runtimeconfig.dev.json
+C:\Users\Roel\Code\website\bin\Debug\netcoreapp2.0\website.dll
+C:\Users\Roel\Code\website\bin\Debug\netcoreapp2.0\website.pdb
+C:\Users\Roel\Code\website\obj\Debug\netcoreapp2.0\website.csproj.CoreCompileInputs.cache
+C:\Users\Roel\Code\website\obj\Debug\netcoreapp2.0\website.AssemblyInfoInputs.cache
+C:\Users\Roel\Code\website\obj\Debug\netcoreapp2.0\website.AssemblyInfo.cs
+C:\Users\Roel\Code\website\obj\Debug\netcoreapp2.0\website.dll
+C:\Users\Roel\Code\website\obj\Debug\netcoreapp2.0\website.pdb
